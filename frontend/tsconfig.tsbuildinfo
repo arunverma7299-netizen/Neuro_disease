@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/brainglow.tsx","./src/components/resultpanel.tsx","./src/components/scanflow.tsx","./src/pages/historypage.tsx","./src/pages/modelinfopage.tsx","./src/pages/whatifpage.tsx","./src/services/api.ts","./src/types/neuropulse.ts","./src/utils/score.ts"],"version":"5.9.3"}
